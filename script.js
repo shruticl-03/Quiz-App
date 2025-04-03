@@ -1,4 +1,4 @@
-const questions = [ 
+const questions = [
     {
         question: "Which data structure uses LIFO (Last In, First Out) principle?",
         answers: [
@@ -43,5 +43,9 @@ const questions = [
             { text: "REMOVE", correct: false },
             { text: "TRUNCATE", correct: true },
         ]
-    },
-]
+    }
+];
+
+const questionElement = document.getElementById("question");
+const answerButton = document.getElementById("answer-buttons");
+const nextButton = document.getElementById("next-btn");
