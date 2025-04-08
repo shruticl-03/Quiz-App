@@ -18,21 +18,21 @@ const questions = [
         ]
     },
     {
-        question: "Which HTML tag is used to create a hyperlink?",
-        answers: [
-            { text: "<a>", correct: true },
-            { text: "<link>", correct: false },
-            { text: "<href>", correct: false },
-            { text: "<url>", correct: false },
-        ]
-    },
-    {
         question: "Which keyword is used to inherit a class in Java?",
         answers: [
             { text: "inherits", correct: false },
             { text: "extends", correct: true },
             { text: "implements", correct: false },
             { text: "super", correct: false },
+        ]
+    },
+    {
+        question: "Which HTML tag is used to create a hyperlink?",
+        answers: [
+            { text: "a tag", correct: true },
+            { text: "link tag", correct: false },
+            { text: "href tag", correct: false },
+            { text: "url tag", correct: false },
         ]
     },
     {
