@@ -15,8 +15,10 @@ CSS: Styling to ensure a responsive and visually appealing layout.
 
 JavaScript: Logic for handling quiz interactions, score calculation, and timing functionality.
 
+open to visit project: https://quizapp-shruti.netlify.app/
+
 Installation
-To run the app locally:
+To run the app locally: 
 
 Clone the repository:
 
